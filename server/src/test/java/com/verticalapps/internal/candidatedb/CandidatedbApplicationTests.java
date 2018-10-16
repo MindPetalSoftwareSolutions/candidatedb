@@ -1,4 +1,4 @@
-package com.verticallapps.internal.candidatedb;
+package com.verticalapps.internal.candidatedb;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

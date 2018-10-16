@@ -1,11 +1,10 @@
-package com.verticallapps.internal.candidatedb;
+package com.verticalapps.internal.candidatedb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
 @SpringBootApplication
-public class CandidatedbApplication extends SpringBootServletInitializer{
+public class CandidatedbApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CandidatedbApplication.class, args);
